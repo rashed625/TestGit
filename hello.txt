@@ -1,2 +1,6 @@
 my file was empty now i wrote something
+
 this is branch copy
+
+final copy is for master branch
+
